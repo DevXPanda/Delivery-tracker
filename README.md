@@ -43,7 +43,7 @@ A modern web application for tracking deliveries in real-time, built with Next.j
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/DevXPanda/Delivery-tracker.git
 cd delivery-tracker
 ```
 
